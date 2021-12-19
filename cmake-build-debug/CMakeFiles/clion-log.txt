@@ -1,0 +1,4 @@
+C:\Users\Dor\AppData\Local\JetBrains\CLion2020.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/cmake-build-debug

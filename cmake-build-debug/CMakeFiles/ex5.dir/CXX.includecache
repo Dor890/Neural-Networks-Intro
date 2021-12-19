@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Activation.cpp
+Activation.h
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Activation.h
+
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Activation.h
+Matrix.h
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Matrix.h
+
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Dense.cpp
+Dense.h
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Dense.h
+
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Dense.h
+Activation.h
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Activation.h
+Matrix.h
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Matrix.h
+
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Digit.h
+
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Matrix.cpp
+Matrix.h
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Matrix.h
+
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Matrix.h
+iostream
+-
+fstream
+-
+cmath
+-
+
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/MlpNetwork.cpp
+MlpNetwork.h
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/MlpNetwork.h
+
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/MlpNetwork.h
+Dense.h
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Dense.h
+Matrix.h
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Matrix.h
+Activation.h
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Activation.h
+Digit.h
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Digit.h
+
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/main2.cpp
+Matrix.cpp
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Matrix.cpp
+Digit.h
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Digit.h
+Dense.cpp
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Dense.cpp
+Activation.cpp
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/Activation.cpp
+MlpNetwork.cpp
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex5/MlpNetwork.cpp
+fstream
+-
+iostream
+-
+string
+-
+
